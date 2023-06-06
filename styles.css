@@ -1,0 +1,90 @@
+body {
+   text-align: center;
+   font-family: 'Orbitron', sans-serif;
+   color:#ffffff;
+   background: #a2d2ff;
+}
+
+.header {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+#image {
+    width:150px;
+    border: 4px solid #EFB0C9;
+    border-radius:50%;
+}
+
+h1, h2, h3, h4, p{
+    text-shadow: 0px 0px 1px #000000;
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+
+}
+#bday-date {
+    margin:0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.heading{
+    margin-bottom:10px;
+}
+.heading-2{
+    margin-top:0;
+}
+
+.gift {
+    width:400px;
+    height:400px;
+    background-image: url(giftbox.png);
+    margin: 0 auto;
+    background-size: cover;
+}
+
+#one:hover{
+    background-image: url(happy.gif);
+    border: 4px solid #EFB0C9;
+    border-radius: 5px;;
+}
+
+#two:hover{
+    background-image: url(vomit.gif);
+    border: 4px solid #EFB0C9;
+    border-radius: 5px;;
+}
+
+#three:hover{
+    background-image: url(stupid.gif);
+    border: 4px solid #EFB0C9;
+    border-radius: 5px;;
+}
+#four:hover{
+    background-image: url(dumb.gif);
+    border: 4px solid #EFB0C9;
+    border-radius: 5px;;
+}
+
+#five:hover{
+    background-image: url(cheers.gif);
+    border: 4px solid #EFB0C9;
+    border-radius: 5px;
+    background-size: cover;
+}
+.last-heading{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
