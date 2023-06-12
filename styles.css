@@ -56,30 +56,30 @@ h1, h2, h3, h4, p{
 }
 
 #one:hover{
-    background-image: url(happy.gif);
+    background-image: url(qone.webp);
     border: 4px solid #EFB0C9;
     border-radius: 5px;;
 }
 
 #two:hover{
-    background-image: url(vomit.gif);
+    background-image: url(qtwo2.jpg);
     border: 4px solid #EFB0C9;
     border-radius: 5px;;
 }
 
 #three:hover{
-    background-image: url(stupid.gif);
+    background-image: url(qthree.gif);
     border: 4px solid #EFB0C9;
     border-radius: 5px;;
 }
 #four:hover{
-    background-image: url(dumb.gif);
+    background-image: url(qfour.gif);
     border: 4px solid #EFB0C9;
     border-radius: 5px;;
 }
 
 #five:hover{
-    background-image: url(cheers.gif);
+    background-image: url(qfive2.gif);
     border: 4px solid #EFB0C9;
     border-radius: 5px;
     background-size: cover;
