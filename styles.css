@@ -58,7 +58,7 @@ h1, h2, h3, h4, p{
 #one:hover{
     background-image: url(qone.webp);
     border: 4px solid #EFB0C9;
-    border-radius: 5px;;
+    border-radius: 5px;
 }
 
 #two:hover{
